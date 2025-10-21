@@ -50,4 +50,3 @@ while vic == "Noone":
                 case "Tesoura":
                     vic = "Tesoura = Tesoura"
                     print("DRAW! ", vic)
-
